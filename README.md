@@ -1,11 +1,10 @@
 # UTM Robocon Team ABU 2025 Repo
 
-```bash
-echo "Welcome to the UTM Robocon Team ABU 2025 Repository!"
-echo "🏁 This repo contains:"
-echo " - 🧠 Embedded systems code (MCUs & processors)"
-echo " - 🛠️ SolidWorks CAD designs"
-echo " - 💻 Mainboard and C_mod circuit designs"
-echo " - 📚 Internal tools and documentation"
-echo ""
-echo "🔒 For UTM Robocon Team use only"
+Welcome to the UTM Robocon Team ABU 2025 Repository!
+🏁 This repo contains:
+- 🧠 Embedded systems code (MCUs & processors)
+- 🛠️ SolidWorks CAD designs
+- 💻 Mainboard and C_mod circuit designs
+- 📚 Internal tools and documentation
+
+🔒 For UTM Robocon Team use only
